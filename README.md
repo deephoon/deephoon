@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=auto" />&nbsp
   <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=auto" />&nbsp
   <img src="https://img.shields.io/badge/Notion-black.svg?style=for-the-badge&logo=notion&logoColor=auto" />&nbsp
+  <img src="https://img.shields.io/badge/LogicPro-black.svg?style=for-the-badge&logo=LogicPro&logoColor=auto" />&nbsp
 </div>
 
 <div align="center">
