@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&logoColor=auto" />&nbsp
   <img src="https://img.shields.io/badge/Pytorch-black.svg?style=for-the-badge&logo=pytorch&logoColor=auto" />&nbsp
   <img src="https://img.shields.io/badge/Tensorflow-black.svg?style=for-the-badge&logo=Pytorch&logoColor=auto" />&nbsp
+  <img src="https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=java&logoColor=auto" />&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=auto" />&nbsp
 </div>
 <br>
 <div align="center">
@@ -22,8 +24,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=java&logoColor=auto" />&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin&logoColor=auto" />&nbsp
+
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=auto" />&nbsp
 </div>
 
