@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/pandas-black.svg?style=for-the-badge&logo=pandas&logoColor=auto" />&nbsp
   <img src="https://img.shields.io/badge/numpy-black.svg?style=for-the-badge&logo=numpy&logoColor=auto" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-black.svg?style=for-the-badge&logo=Matplotlib&logoColor=auto" />&nbsp
+  <img src="https://img.shields.io/badge/Matlab-black.svg?style=for-the-badge&logo=Matplotlib&logoColor=auto" />&nbsp
   <img src="https://img.shields.io/badge/C++-black.svg?style=for-the-badge&logo=C++&logoColor=auto" />&nbsp
 </div>
 
@@ -25,7 +25,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
 
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=auto" />&
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AWS&logoColor=auto" />
 </div>
 
 <br>
